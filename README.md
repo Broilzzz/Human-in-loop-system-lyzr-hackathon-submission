@@ -3,6 +3,9 @@
 
 A Human-in-the-Loop system enabling agents to pause workflows, request human approvals or feedback, and resume execution asynchronously. It features complete state management, rollback, and resilience against delays or failures, supporting multi-channel inputs and event-driven orchestration for reliable automation.
 
+## Project Demo Video
+https://youtu.be/wCUD1J6e5uI
+
 1. Asynchronous System Design
 
 To achieve this, I separated the agent’s workflow into independent asynchronous steps.
